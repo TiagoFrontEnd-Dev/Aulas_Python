@@ -12,3 +12,5 @@ Operação ternária (condicional de uma linha)
 # print(novo_digito)
 
 print('Valor' if True else 'Outro Valor' if True else 'Fim')
+
+
